@@ -1,0 +1,32 @@
+a{
+    color:grey;
+}
+
+.google {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding-top: 100px;
+    size: 50%;
+}
+
+
+.form-control {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.btn-primary {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-top: 30px;
+    background-color: #f2f2f2;
+    border-color: #f2f2f2;
+    font-family: arial,sans-serif;
+    color: #5F6368;
+}
